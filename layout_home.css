@@ -407,7 +407,7 @@ div.g_list {
 	background: linear-gradient(#333, #000);
 	display: block;
 	width: 850px;
-	border-radius: 10px;
+	/* border-radius: 10px; */
 	height: 1150px;
 }
 
